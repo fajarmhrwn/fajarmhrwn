@@ -1,11 +1,11 @@
 <h3 align="center">
-  Welcome to Fajar Maulana's profile!
+  Welcome to Fajar Maulana Herawan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student%20at%20ITB;Experienced%20in%20Research%20Project;3%2B%20years%20of%20coding%20experience;Man%20Jadda%20Wa%20Jadda&font=Fira%20Code&center=true&width=440&height=45&color=#6BC71D&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student%20at%20ITB;Experienced%20in%20Research%20Project;3%2B%20years%20of%20coding%20experience;Stay%20Hungry%20Stay%20Foolish&font=Fira%20Code&center=true&width=440&height=45&color=#6BC71D&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
