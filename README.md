@@ -101,7 +101,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fajar's Github Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/?username=fajarmhrwn&show_icons=true&include_all_commits=false&count_private=true&theme=transparent&hide_border=true&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fajar's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=fajarmhrwn&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=transparent&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fajar's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=fajarmhrwn&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=transparent&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="120px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
