@@ -10,26 +10,26 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/fajar-herawan-3a2a77181/"><img width="32px" alt="Linkedin" title="Youtube" src="https://www.iconsdb.com/icons/preview/color/6BC71D/linkedin-3-xxl.png"/></a>
+  <a href="https://www.linkedin.com/in/fajar-herawan-3a2a77181/"><img width="32px" alt="Linkedin" title="Youtube" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://www.iconsdb.com/icons/preview/color/6BC71D/twitter-xxl.png"/></a>
+  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://www.iconsdb.com/icons/preview/black/twitter-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Discord"><img width="32px" src="https://www.iconsdb.com/icons/preview/color/6BC71D/discord-2-xxl.png"/></a>
+  <a href="" alt="Discord"><img width="32px" src="https://www.iconsdb.com/icons/preview/black/discord-2-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/fajar_mhrwn/" alt="Instagram"><img width="32px" src="https://www.iconsdb.com/icons/preview/color/6BC71D/instagram-xxl.png"/></a>
+  <a href="https://www.instagram.com/fajar_mhrwn/" alt="Instagram"><img width="32px" src="https://www.iconsdb.com/icons/preview/black/instagram-xxl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:fajarherawan2@gmail.com" alt="Mail"><img width="32px" src="https://www.iconsdb.com/icons/preview/color/6BC71D/mail-2-xxl.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:fajarherawan2@gmail.com" alt="Mail"><img width="32px" src="https://www.iconsdb.com/icons/preview/black/mail-2-xxl.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ## 📁 Past Project
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/fajarmhrwn/Algeo01-21080"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=Algeo01-21080&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/fajarmhrwn/Tubes-Daspro-2022"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=Tubes-Daspro-2022&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/fajarmhrwn/TugasMagang1"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=TugasMagang1&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/fajarmhrwn/TugasMagang2"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=fajarmhrwn&repo=TugasMagang2&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/fajarmhrwn/TubesProgramming_16521104_16521266"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=TubesProgramming_16521104_16521266&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/fajarmhrwn/Algeo01-21080"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=Algeo01-21080&theme=transparent&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/fajarmhrwn/Tubes-Daspro-2022"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=Tubes-Daspro-2022&theme=transparent&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/fajarmhrwn/TugasMagang1"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=TugasMagang1&theme=transparent&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/fajarmhrwn/TugasMagang2"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin?username=fajarmhrwn&repo=TugasMagang2&theme=transparent&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/fajarmhrwn/TubesProgramming_16521104_16521266"><img width="380" src="https://github-readme-stats-gamma-eosin.vercel.app/api/pin/?username=fajarmhrwn&repo=TubesProgramming_16521104_16521266&theme=transparent&hide_border=false&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
 </p>
 
 ## 🛠️ My favorite tools
@@ -100,10 +100,10 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fajar's Github Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/?username=fajarmhrwn&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fajar's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=fajarmhrwn&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fajar's Github Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/?username=fajarmhrwn&show_icons=true&include_all_commits=false&count_private=true&theme=transparant&hide_border=true&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fajar's Top Languages" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=fajarmhrwn&langs_count=8&include_all_commits=true&layout=compact&count_private=true&theme=transparant&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fajar's Activity Graph" src="https://readmeprofile.herokuapp.com/graph?username=fajarmhrwn&theme=chartreuse-dark&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fajar's Activity Graph" src="https://readmeprofile.herokuapp.com/graph?username=fajarmhrwn&theme=github&hide_border=true" /></a>
