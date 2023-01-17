@@ -5,12 +5,10 @@
     </h1>
   </a>
 </p>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F787B1&center=true&vCenter=true&width=435&lines=Computer+Science+Student;at+Institute+Technology+of+Bandung" alt="Typing SVG" /></a>
 </p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@104_fajarmaulanah4/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -19,35 +17,26 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/fajar_mhrwn"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://twitter.com/fajar_mhrwn"><img width="32px" alt="Instagram" title="Instagram" src="instagram-32.png![instagram-32](https://user-images.githubusercontent.com/112335075/212798606-5f238b7a-122d-401a-b247-456341a1c7d0.png)
-"/></a>
+     <a href="https://www.instagram.com/fajar_mhrwn/"><img width="30px" src="https://www.linkpicture.com/q/instagram-48.png" type="image"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/fajar-herawan-3a2a77181"><img width="32px" src="https://www.linkpicture.com/q/linkedin-3-48.png" type="image"></a>
 </p>
 
 <br/>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Top Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app/api/pin/?username=fajarmhrwn&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
+    <a href="https://github.com/fajarmhrwn/TubesLogkom2"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app/api/pin/?username=fajarmhrwn&repo=TubesLogkom2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/fajarmhrwn/TUBES_TBFO"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app/api/pin/?username=fajarmhrwn&repo=TUBES_TBFO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/fajarmhrwn/Algeo02-21080"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app/api/pin/?username=fajarmhrwn&repo=Algeo02-21080&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/fajarmhrwn/Algeo01-21080"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app/api/pin/?username=fajarmhrwn&repo=Algeo01-21080&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/fajarmhrwn/Tugas-Besar-IF2110-Algoritma-dan-Struktur-Data"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app/api/pin/?username=fajarmhrwn&repo=Tugas-Besar-IF2110-Algoritma-dan-Struktur-Data&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/fajarmhrwn/Tubes-Daspro-2022"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app/api/pin/?username=fajarmhrwn&repo=Tubes-Daspro-2022&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
   <a href="https://github.com/fajarmhrwn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://github-readme-stats-fajarmhrwn.vercel.app//api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
 </details>
 
 <details> 
